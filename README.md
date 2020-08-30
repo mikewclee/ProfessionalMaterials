@@ -11,4 +11,4 @@ Deployed link: https://mikewclee.github.io/ProfessionalMaterials/
 
 Github:  https://github.com/mikewclee/ProfessionalMaterials/
 
-![AppScreenshot](assets/images/UpdatedPortfolio.JPG)
+![AppScreenshot](assets/images/UpdatedPortfolio.jpg)
