@@ -7,7 +7,7 @@ My goal was to make a simple and aesthetically pleasing website demonstrating wh
 It's a mobile-first website.  It's updated with my coding portfolio featuring project 1 and 5 homework assignments. The portfolio has 6 animated images with projects titles, screenshots of app, link to github page repository, and deployed versions. The apps are pinned on my Github page along with my updated information such as profile pic, bio, links and email. 
 
 ## 
-Deployed link: https://mikewclee.github.io/ProfessionalMaterials/
+Deployed link: https://enigmatic-shore-65381.herokuapp.com/
 
 Github:  https://github.com/mikewclee/ProfessionalMaterials/
 
